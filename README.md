@@ -37,6 +37,11 @@ A real-time multi-sensor hazard monitoring system built on Arduino UNO, with a P
 3. Run `dashboard.py` — update the `COM` port / `/dev/tty` path to match your system
 4. Dashboard auto-starts; Excel log file is created in the same directory
 
+   ## Project Setup
+![Hardware Setup](setup.png)
+
+![Python Dashboard](dashboard.png)
+
 ## Key Design Decisions
 
 - Sensor fusion reduces alarm fatigue — a documented real-world problem in industrial safety systems
