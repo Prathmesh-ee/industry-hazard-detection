@@ -38,7 +38,7 @@ A real-time multi-sensor hazard monitoring system built on Arduino UNO, with a P
 4. Dashboard auto-starts; Excel log file is created in the same directory
 
    ## Project Setup
-![Hardware Setup](setup.png)
+![Hardware Setup](setup.jpg)
 
 ![Python Dashboard](dashboard.png)
 
